@@ -2,8 +2,6 @@
 
 * [BumbleBuzz](README.md)
 
-## general
-
 ## Ecosystem
 
 * [Collection](collection/what-is-a-collection.md)
@@ -20,3 +18,16 @@
 * [Incentive](ecosystem/incentive/README.md)
   * [Marketplace](ecosystem/incentive/marketplace.md)
   * [Collection](ecosystem/incentive/collection.md)
+
+## Marketplace
+
+* [Wallet](marketplace/wallet.md)
+* [Profile](marketplace/profile.md)
+* [Buy NFT](marketplace/buy-nft.md)
+* [Sell NFT](marketplace/sell-nft.md)
+* [Explore](marketplace/explore.md)
+* [Create NFT](marketplace/create-nft.md)
+
+## General
+
+* [Contact Us](general/contact-us.md)
