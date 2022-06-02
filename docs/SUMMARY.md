@@ -21,10 +21,16 @@
 
 ## Marketplace
 
-* [Wallet](marketplace/wallet.md)
+* [Authentication](marketplace/authentication.md)
 * [Profile](marketplace/profile.md)
-* [Buy NFT](marketplace/buy-nft.md)
-* [Sell NFT](marketplace/sell-nft.md)
+* [Buy NFT](marketplace/buy-nft/README.md)
+  * [Direct](marketplace/buy-nft/direct.md)
+  * [Immediate](marketplace/buy-nft/immediate.md)
+  * [Auction](marketplace/buy-nft/auction.md)
+* [Sell NFT](marketplace/sell-nft/README.md)
+  * [Direct](marketplace/sell-nft/direct.md)
+  * [Immediate](marketplace/sell-nft/immediate.md)
+  * [Auction](marketplace/sell-nft/auction.md)
 * [Explore](marketplace/explore.md)
 * [Create NFT](marketplace/create-nft.md)
 
