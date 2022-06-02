@@ -1,8 +1,7 @@
 ---
-description: page description
-coverY: 0
+description: What is BumbleBuzz, our goals and vision
 ---
 
 # BumbleBuzz
 
-some content here
+BumbleBuzz is a NFT marketplace which focuses on empowering artists and creators.
