@@ -12,9 +12,9 @@
   * [Doc Page 2 - sub-page 2](doc-page-2/doc-page-2-sub-page-2.md)
 * [Doc Page 3](doc-page-3.md)
 
-## Collection
+## Ecosystem
 
-* [What is a collection](collection/what-is-a-collection.md)
-* [Verified](collection/verified.md)
-* [Unverified](collection/unverified.md)
-* [Local](collection/local.md)
+* [What is a collection](ecosystem/what-is-a-collection/README.md)
+  * [Verified](ecosystem/what-is-a-collection/verified.md)
+  * [Unverified](ecosystem/what-is-a-collection/unverified.md)
+  * [Local](ecosystem/what-is-a-collection/local.md)
