@@ -2,11 +2,10 @@
 
 ## general
 
-* [Main Landing Page](README.md)
-
 ***
 
-* [Doc Page 1](doc-page-1.md)
+* [Doc Page 1](README.md)
+* [Main Landing Page](main-landing-page.md)
 * [Doc Page 2](doc-page-2/README.md)
   * [Doc Page 2 - sub-page 1](doc-page-2/doc-page-2-sub-page-1.md)
   * [Doc Page 2 - sub-page 2](doc-page-2/doc-page-2-sub-page-2.md)
