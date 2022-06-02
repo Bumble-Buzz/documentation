@@ -12,11 +12,9 @@
   * [Doc Page 2 - sub-page 2](doc-page-2/doc-page-2-sub-page-2.md)
 * [Doc Page 3](doc-page-3.md)
 
-## Group Heading 1
+## Collection
 
-* [Group Page 1](group-heading-1/group-page-1.md)
-* [Group Page 2](group-heading-1/group-page-2.md)
-
-***
-
-* [Doc Page 4](doc-page-4.md)
+* [What is a collection](collection/what-is-a-collection.md)
+* [Verified](collection/verified.md)
+* [Unverified](collection/unverified.md)
+* [Local](collection/local.md)
