@@ -17,3 +17,7 @@ If this asset does not belong to any verified collection, then this asset will b
 There is a visual representation of this on the NFT itself to warn users that this NFT has not been vetted.
 {% endtab %}
 {% endtabs %}
+
+This is how a typical asset page looks like.
+
+![](../../.gitbook/assets/asset\_page.png)

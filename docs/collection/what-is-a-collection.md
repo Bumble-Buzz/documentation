@@ -27,3 +27,7 @@ This bucket consists of only collections that have been marked as `local`. This 
 This collection has special rules in place to give out artist commissions. All NFTs minted on the website and automatically marked as verified.
 {% endtab %}
 {% endtabs %}
+
+This is how a typical collection page looks like.
+
+![](../.gitbook/assets/collection\_page.png)
