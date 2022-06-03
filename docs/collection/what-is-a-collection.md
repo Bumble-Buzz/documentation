@@ -1,6 +1,6 @@
 # Collection
 
-A collection is a representation of a `ERC 721` contract. For every `ERC 721` contract that is verified on BumbleBuzz, there is an associated collection to it.
+A collection is a representation of a `ERC 721` contract. For every `ERC 721` contract that is verified on BumbleBuzz, a collection is associated with it.
 
 There are 3 types of collections. You can consider each collection type as a bucket, and in each bucket there are one or more collections.
 
