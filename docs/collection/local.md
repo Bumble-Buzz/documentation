@@ -1,3 +1,3 @@
 # Local
 
-The marketplace owns this `local` collection. As a user you won't be interacting with it directly.
+The marketplace owns this `local` collection. Users will not be interacting with any local collections.
