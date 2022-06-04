@@ -10,4 +10,4 @@ BumbleBuzz is a NFT marketplace focused on empowering artists and creators. Our 
 
 Creators can migrate their collections on BumbleBuzz and earn commission on sales of their NFTs. Creators also have the ability to get incentives directly from the source, which could be a grant, on-chain incentives, or their community.
 
-BumbleBuzz provides creators with opportunities to display their talent and earn many rewards.
+On BumbleBuzz, as a creator you have much more control on how you want to portray your hard work and get rewarded.

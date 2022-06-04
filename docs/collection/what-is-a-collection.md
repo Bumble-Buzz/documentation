@@ -2,15 +2,17 @@
 
 A collection is a representation of a `ERC 721` contract. For every `ERC 721` contract that is verified on BumbleBuzz, a collection is associated with it.
 
-There are 3 types of collections. You can consider each collection type as a bucket, and in each bucket there are one or more collections.
+Every varified `ERC 721` contract on BumbleBuzz has a collection assosiated with it.
+
+There are 3 types of collections. Each type of collection can be consodered as a bucket, and each bucket contains one or more collections.
 
 {% tabs %}
 {% tab title="Verified" %}
-This bucket consists of only collections that have been verified.
+This bucket consists of verified collections only.
 
-When a creator wants to verify their `ERC 721` contract on BumbleBuzz, they must create a collection and wait for it to be verified.
+Creator seeking verification for their `ERC 721` contract on BumbleBuzz must submit their creation for verification.
 
-Once the collection is verified, the collection is marked as `verified`. What this means is that all the NFTs belonging to this collection is given a blessing from BumbleBuzz that it's authentic. There is a visual representation of this on the NFT itself to give users confidence that this NFT has been vetted.
+Once the collection is verified, the collection is marked as `verified`. This means the NFTs belonging to the verified collection has been reviewd and approved as authentic by Bumblebuzz. All verified NFTs present with a verified mark on them for users interested in varified NFTs.&#x20;
 {% endtab %}
 
 {% tab title="Unverified" %}
@@ -28,6 +30,6 @@ This collection has special rules in place to give out artist commissions. All N
 {% endtab %}
 {% endtabs %}
 
-This is how a typical collection page looks like.
+Representation of a collection page.
 
 ![](../.gitbook/assets/collection\_page.png)
