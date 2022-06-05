@@ -1,8 +1,8 @@
 # Asset
 
-An asset is a Non-Fungible Token (NFT). All valid NFTs can be traded at BumbleBuzz.
+An asset is a Non-Fungible Token (NFT). Either this NFT is minted on BumbleBuzz or belongs to a `ERC 721` contract created anywhere on chain. Any given NFT is considered as an asset.
 
-All NFTs are associated with a collection. All collections must undergo a verification process to determine whether the collection is verified or unverified. Depending on the status of the collection the associated NFTs are then considered verified or unverified.&#x20;
+A given asset, depending on which collection it belongs to can be considered `verified` or `unverified`.&#x20;
 
 {% tabs %}
 {% tab title="Verified" %}
@@ -12,12 +12,12 @@ There is a visual representation of this on the NFT itself to give users confide
 {% endtab %}
 
 {% tab title="Unverified" %}
-If this asset does not belong to any verified collection, the asset will then be considered as `unverified`.
+If this asset does not belong to any verified collection, then this asset will be considered as `unverified`.
 
 There is a visual representation of this on the NFT itself to warn users that this NFT has not been vetted.
 {% endtab %}
 {% endtabs %}
 
-Representation of an asset.
+This is how a typical asset page looks like.
 
 ![](../../.gitbook/assets/asset\_page.png)
