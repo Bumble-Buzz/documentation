@@ -1,3 +1,3 @@
 # Marketplace
 
-Marketplace incentive is in place to counter the marketplace commission, reducing or eliminating them.
+Marketplace incentives are in place to counter the marketplace commissions, reducing or eliminating them.

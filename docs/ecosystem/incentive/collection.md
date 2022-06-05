@@ -1,5 +1,5 @@
 # Collection
 
-Collection owners will have the option to turn on `collection incentive.`
+As a collection owner, you have an option to turn on `collection incentives` if you wish.
 
-NFT `buyers` will receive the set collection incentive every time an NFT from that collection is sold. The collection incentive is funded from the collection incentive pool. This reward will help buyers counter against the collection commission.
+Given a valid `collection incentive` percent value, every time this NFT is sold, funds will be taken out of the `collection incentive pool`  to help towards the buyer. This will help to counter against collection commissions.

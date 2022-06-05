@@ -1,31 +1,29 @@
 # Profile
 
-Once signed in, this is how your profile page will look like.
-
-Here you can save a display picture, give yourself an alias name, and even write some description about yourself.
+Once signed in, you can make chnages to your profile as needed.
 
 ![](../.gitbook/assets/profile\_page.png)
 
-The profile page has a few sub-sections. An explanation for each of them can be seen below.
+The profile page presents you with sub-sections.&#x20;
 
 {% tabs %}
 {% tab title="General" %}
-Here you can interact with your monetary funds. Whether it is commission you are collecting, or collecting collection commissions/reflections.
+In general, the users can access their funds. Such as: artist commission, and collection commission / incentive / reflection.
 {% endtab %}
 
 {% tab title="Wallet" %}
-List of all NFT assets you are holding in your wallet.
+The wallet contains all NFTs that you currently own.
 {% endtab %}
 
 {% tab title="Collections" %}
-List of all collections that you own.
+All owned collections will appear under collections tab.&#x20;
 {% endtab %}
 
 {% tab title="Created" %}
-List of all NFT assets you created on BumbleBuzz.
+Assets created through BumbleBuzz will appear until Created.
 {% endtab %}
 
 {% tab title="Listings" %}
-List of all of your NFT assets that are currently on sale.
+All NFTs listed for sale by the user will appear under Listings.
 {% endtab %}
 {% endtabs %}

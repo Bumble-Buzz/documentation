@@ -1,7 +1,7 @@
 # Immediate
 
-Once on the asset you want to sell, click `Buy Now`.
+Click `Buy Now` on the asset you wish to purchase.
 
 ![](../../.gitbook/assets/asset\_buy\_1.png)
 
-MetaMask notification will open, approve the transaction and the sale will be completed.
+MetaMask notification will open for you to approve the transaction and the sale will then be completed.

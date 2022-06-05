@@ -4,8 +4,9 @@ If you would like to create a NFT asset on BumbleBuzz, click `Trade` from the to
 
 ![](../.gitbook/assets/asset\_create\_1.png)
 
-Now you will land on the asset `create` page.
+The asset `create` page will open.&#x20;
+
+Once the user has filled in all the necessary information and clicked create, the MetaMask page will open for approval. Once the transaction is approved, the user will have created an NFT.
 
 ![](../.gitbook/assets/asset\_create\_2.png)
 
-Fill in the necessary information, artist commission information, upload the image you want to use, and click `Create NFT!` . A MetaMask notification will open up, approve the transaction and you will mint your own NFT!

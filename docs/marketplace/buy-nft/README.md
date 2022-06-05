@@ -1,3 +1,3 @@
 # Buy NFT
 
-Navigate to the NFT asset you wish to buy.&#x20;
+There are 3 ways to buy an NFT.&#x20;
